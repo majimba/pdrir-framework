@@ -33,11 +33,11 @@ nav:
       - Systems Thinking: guides/systems_thinking.md
       - Agile and Lean Development: guides/agile_development.md
   - Templates:
-      - Problem Statement: templates/problem-statement.md
-      - Deconstruction Truths: templates/deconstruction-truths.md
-      - Research Log: templates/research-log.md
-      - Implementation Checklist: templates/implementation-checklist.md
-      - Refinement Retro: templates/refinement-retro.md
+      - Problem Statement: doc-templates/problem-statement.md
+      - Deconstruction Truths: doc-templates/deconstruction-truths.md
+      - Research Log: doc-templates/research-log.md
+      - Implementation Checklist: doc-templates/implementation-checklist.md
+      - Refinement Retro: doc-templates/refinement-retro.md
 
 markdown_extensions:
   - admonition
