@@ -38,4 +38,6 @@ Problem, Deconstruction, Research, Implementation, and Refinement. It blends pri
 
 ---
 
+[![PDRIR Loop Overview](./assets/images/pdrir_loop_final.png){ width=720px }](./core/01-core-philosophy.md)
+
 [Start the guide →](./core/01-core-philosophy.md){ .md-button .md-button--primary }
