@@ -32,6 +32,7 @@ nav:
       - First-Principles Thinking: guides/first_principles_thinking.md
       - Systems Thinking: guides/systems_thinking.md
       - Agile and Lean Development: guides/agile_development.md
+  - Journal: journal.md
   - Templates:
       - Problem Statement: doc-templates/problem-statement.md
       - Deconstruction Truths: doc-templates/deconstruction-truths.md
