@@ -47,6 +47,3 @@ Let's deconstruct our clipboard manager's MVP using first principles.
 
 A numbered list of the fundamental technical challenges you need to solve. You have transformed one large problem into eight smaller, distinct, and highly searchable mini-problems.
 
----
-
-Prev: [02. Phase 1: Problem](./02-phase-1-problem.md) | Next: [04. Phase 3: Research](./04-phase-3-research.md) | [Back to Home](../index.md)

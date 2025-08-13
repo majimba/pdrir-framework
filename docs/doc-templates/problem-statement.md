@@ -14,6 +14,3 @@ As a [user type], I am trying to [achieve a goal], but I am frustrated by [obsta
 - [ ] Outcome 2
 - [ ] Outcome 3
 
----
-
-[Back to Home](../index.md)

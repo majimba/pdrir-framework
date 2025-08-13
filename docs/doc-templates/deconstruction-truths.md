@@ -18,6 +18,3 @@ List the fundamental truths and constraints that must hold for the MVP.
 - Assumptions to challenge:
 - Hard constraints:
 
----
-
-[Back to Home](../index.md)

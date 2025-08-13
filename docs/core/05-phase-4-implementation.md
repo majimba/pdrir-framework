@@ -23,6 +23,3 @@ This is the assembly phase. You're moving from scientist to engineer.
 
 A single script, clip_keeper.py, that successfully functions as a Minimum Viable Product.
 
----
-
-Prev: [04. Phase 3: Research](./04-phase-3-research.md) | Next: [06. Phase 5: Refinement](./06-phase-5-refinement.md) | [Back to Home](../index.md)

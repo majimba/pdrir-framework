@@ -40,6 +40,3 @@ First-principles thinking separates facts (constraints, physics, protocols, inva
 
 - TODO: Add articles, notes, and experiments validating/invalidating assumptions.
 
----
-
-[Back to Home](../index.md)

@@ -30,6 +30,3 @@ Example MVP:
 
 A clear, concise mission document outlining the problem and the minimum success criteria.
 
----
-
-Prev: [01. Core Philosophy](./01-core-philosophy.md) | Next: [03. Phase 2: Deconstruction](./03-phase-2-deconstruction.md)

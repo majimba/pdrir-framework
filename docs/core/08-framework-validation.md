@@ -34,6 +34,3 @@ New PDRIR Cycle: Use the framework to build a real-world tool (like the 'Clip-Ke
 
 The test is successful. The framework is self-consistent and its creation follows its own logic.
 
----
-
-Prev: [07. Follow-Along Project: Clip-Keeper](./07-clip-keeper.md) | Next: [09. Conclusion](./09-conclusion.md) | [Back to Home](../index.md)

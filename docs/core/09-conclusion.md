@@ -6,6 +6,3 @@ The PDRIR Framework is not a rigid set of rules, but a mental scaffold. Its purp
 
 The ultimate goal is for this framework to become second nature—an automatic, internalized loop that you apply to any challenge, big or small. When it becomes instinct, you will have transitioned from someone who learns to code into someone who solves problems using code. And that is the true measure of a builder.
 
----
-
-Prev: [08. Framework Validation](./08-framework-validation.md) | [Back to Home](../index.md)

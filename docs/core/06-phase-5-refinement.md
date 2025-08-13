@@ -34,6 +34,3 @@ Use your tool for a day. What annoys you? What could be better? Each answer is a
 
 An improved, more robust, and more feature-rich version (V1.1, V1.2, etc.) of your tool. You are now in a continuous improvement loop.
 
----
-
-Prev: [05. Phase 4: Implementation](./05-phase-4-implementation.md) | Next: [07. Follow-Along Project: Clip-Keeper](./07-clip-keeper.md) | [Back to Home](../index.md)

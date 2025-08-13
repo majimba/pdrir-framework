@@ -16,6 +16,3 @@ PDRIR provides the structured escape route. It forces a deliberate pause at each
 - [Systems Thinking](../guides/systems_thinking.md): We recognize that our project is a system of interconnected parts. The output of one step is the input of the next. This helps us build modular, maintainable, and scalable solutions.
 - [Agile & Lean Principles](../guides/agile_development.md): We build the simplest possible version first (Minimum Viable Product), get it working, and then iterate. This philosophy of "build-measure-learn" reduces wasted effort and delivers value quickly.
 
----
-
-Next: [02. Phase 1: Problem](./02-phase-1-problem.md) | [Back to Home](../index.md)

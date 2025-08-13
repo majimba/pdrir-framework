@@ -139,6 +139,3 @@ New PDRIR cycle:
 - I(mplement): Add the tk.Entry widget and a function that runs on keypress to rebuild the listbox content.
 - R(efine): Search should be case-insensitive. Use .lower() on both the search term and the clip content.
 
----
-
-Prev: [06. Phase 5: Refinement](./06-phase-5-refinement.md) | Next: [08. Framework Validation](./08-framework-validation.md) | [Back to Home](../index.md)

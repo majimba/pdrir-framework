@@ -41,6 +41,3 @@ Note: Phases are non-linear—expect to loop and revisit earlier steps as you le
 
 - TODO: Add links, papers, field notes, and interview summaries here.
 
----
-
-[Back to Home](../index.md)

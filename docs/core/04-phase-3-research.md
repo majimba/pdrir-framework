@@ -33,6 +33,3 @@ This isolates each problem and confirms you can solve it before you try to conne
 
 A set of small, working prototype scripts, one for each core challenge, and a list of the libraries you will use.
 
----
-
-Prev: [03. Phase 2: Deconstruction](./03-phase-2-deconstruction.md) | Next: [05. Phase 4: Implementation](./05-phase-4-implementation.md) | [Back to Home](../index.md)

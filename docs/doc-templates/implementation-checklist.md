@@ -23,6 +23,3 @@
 
 - Follow-ups and known gaps:
 
----
-
-[Back to Home](../index.md)

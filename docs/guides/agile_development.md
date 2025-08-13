@@ -40,6 +40,3 @@ Agile is a set of values and practices that favor working software, collaboratio
 
 - TODO: Add links to methodology guides, team working agreements, and metrics.
 
----
-
-[Back to Home](../index.md)

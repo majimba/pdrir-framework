@@ -42,6 +42,3 @@ Systems Thinking is a holistic approach that studies how parts interact to produ
 
 - TODO: Add diagrams, causal loop maps, and reference links here.
 
----
-
-[Back to Home](../index.md)
