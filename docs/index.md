@@ -35,3 +35,7 @@ Problem, Deconstruction, Research, Implementation, and Refinement. It blends pri
 - [07. Follow-Along Project: Clip-Keeper](./core/07-clip-keeper.md)
 - [08. Framework Validation](./core/08-framework-validation.md)
 - [09. Conclusion](./core/09-conclusion.md)
+
+---
+
+[Start the guide →](./core/01-core-philosophy.md){ .md-button .md-button--primary }
