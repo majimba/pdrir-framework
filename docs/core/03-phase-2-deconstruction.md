@@ -8,13 +8,11 @@ This is where you apply [First-Principles Thinking](../guides/first_principles_t
 
 ## Process
 
-Let's deconstruct our clipboard manager's MVP using first principles.
-
 ## The Critical Difference: Truths vs. Tasks
 
 This is the most common failure point in the Deconstruction phase. We instinctively jump to solutions ("Tasks") instead of defining the underlying problem ("Truths"). Focusing on Truths keeps your options open and prevents you from building the wrong thing.
 
-A **Task** is how you might solve something. A **Truth** is what must be solved.
+A **Task** is *how* you might solve something. A **Truth** is *what* must be solved.
 
 Here is a clear example based on our Clip-Keeper project:
 
@@ -25,6 +23,8 @@ Here is a clear example based on our Clip-Keeper project:
 | "Save the clips to a JSON file."| "The program needs a way to **persist** data between restarts." | This Truth opens up other storage options like a database, a CSV file, or cloud storage, depending on future needs. |
 
 Always ask: "Am I describing a specific tool or action, or am I describing a fundamental requirement?"
+
+Let's deconstruct our clipboard manager's MVP using first principles.
 
 ### MVP Goal 1: "Press a hotkey to save whatever is currently on my clipboard."
 
