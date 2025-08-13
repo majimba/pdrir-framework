@@ -45,3 +45,23 @@ markdown_extensions:
       permalink: true
   - tables
   - footnotes
+  - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - minify:
+      minify_html: true
+  - redirects:
+      redirect_maps:
+        official_docs.md: index.md
+        design_thinking.md: guides/design_thinking.md
+  - section-index

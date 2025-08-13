@@ -6,8 +6,8 @@ Thanks for improving the PDRIR Framework documentation!
 
 - Propose changes via Issues/PRs. Keep PRs small and focused.
 - Maintain the structure:
-  - Core chapters live in ./core and are numbered 01–09.
-  - Supporting methodology guides live in ./guides.
+  - Core chapters live in `./docs/core` and are numbered 01–09.
+  - Supporting methodology guides live in `./docs/guides`.
 - Prefer concise, actionable writing. Use headings and short lists.
 
 ## Style and linting
@@ -19,7 +19,7 @@ Thanks for improving the PDRIR Framework documentation!
 
 ## Templates
 
-Use files under ./templates for common artifacts:
+Use files under `./docs/doc-templates` for common artifacts:
 - problem-statement.md
 - deconstruction-truths.md
 - research-log.md
