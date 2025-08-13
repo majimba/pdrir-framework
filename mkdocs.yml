@@ -2,10 +2,10 @@ site_name: PDRIR Framework
 site_description: Official documentation for the PDRIR methodology
 site_url: https://majimba.github.io/pdrir-framework/
 repo_url: https://github.com/majimba/pdrir-framework
-edit_uri: edit/main/
+edit_uri: edit/main/docs/
 
-# Use repository root as docs source
-docs_dir: .
+# MkDocs 1.6+ requires docs to be in a child directory
+docs_dir: docs
 
 theme:
   name: material
@@ -18,15 +18,15 @@ theme:
 nav:
   - Home: index.md
   - Core:
-      - 01. Core Philosophy: core/01-core-philosophy.md
-      - 02. Phase 1: Problem (The 'Why'): core/02-phase-1-problem.md
-      - 03. Phase 2: Deconstruction (The 'What'): core/03-phase-2-deconstruction.md
-      - 04. Phase 3: Research (The 'How'): core/04-phase-3-research.md
-      - 05. Phase 4: Implementation (The 'Do'): core/05-phase-4-implementation.md
-      - 06. Phase 5: Refinement (The 'Iterate'): core/06-phase-5-refinement.md
-      - 07. Follow-Along Project: Clip-Keeper: core/07-clip-keeper.md
-      - 08. Framework Validation: core/08-framework-validation.md
-      - 09. Conclusion: core/09-conclusion.md
+      - "01. Core Philosophy": core/01-core-philosophy.md
+      - "02. Phase 1: Problem (The 'Why')": core/02-phase-1-problem.md
+      - "03. Phase 2: Deconstruction (The 'What')": core/03-phase-2-deconstruction.md
+      - "04. Phase 3: Research (The 'How')": core/04-phase-3-research.md
+      - "05. Phase 4: Implementation (The 'Do')": core/05-phase-4-implementation.md
+      - "06. Phase 5: Refinement (The 'Iterate')": core/06-phase-5-refinement.md
+      - "07. Follow-Along Project: Clip-Keeper": core/07-clip-keeper.md
+      - "08. Framework Validation": core/08-framework-validation.md
+      - "09. Conclusion": core/09-conclusion.md
   - Guides:
       - Design Thinking: guides/design_thinking.md
       - First-Principles Thinking: guides/first_principles_thinking.md

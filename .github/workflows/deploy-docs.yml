@@ -1,8 +1,8 @@
-name: Deploy Docs to GitHub Pages
+name: Deploy MkDocs to GitHub Pages
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
