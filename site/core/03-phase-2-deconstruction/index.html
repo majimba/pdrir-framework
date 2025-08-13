@@ -386,7 +386,16 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Process">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-critical-difference-truths-vs-tasks" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Critical Difference: Truths vs. Tasks
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The Critical Difference: Truths vs. Tasks">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -914,7 +923,16 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Process">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-critical-difference-truths-vs-tasks" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Critical Difference: Truths vs. Tasks
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The Critical Difference: Truths vs. Tasks">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -983,6 +1001,37 @@
 <p>This is where you apply <a href="../../guides/first_principles_thinking/">First-Principles Thinking</a>. You are not allowed to think about specific libraries or existing solutions. You must think about the essential truths of your MVP definition.</p>
 <h2 id="process">Process<a class="headerlink" href="#process" title="Permanent link">&para;</a></h2>
 <p>Let's deconstruct our clipboard manager's MVP using first principles.</p>
+<h2 id="the-critical-difference-truths-vs-tasks">The Critical Difference: Truths vs. Tasks<a class="headerlink" href="#the-critical-difference-truths-vs-tasks" title="Permanent link">&para;</a></h2>
+<p>This is the most common failure point in the Deconstruction phase. We instinctively jump to solutions ("Tasks") instead of defining the underlying problem ("Truths"). Focusing on Truths keeps your options open and prevents you from building the wrong thing.</p>
+<p>A <strong>Task</strong> is how you might solve something. A <strong>Truth</strong> is what must be solved.</p>
+<p>Here is a clear example based on our Clip-Keeper project:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Common Mistake (A Task)</th>
+<th style="text-align: left;">Better Approach (A Truth)</th>
+<th style="text-align: left;">Why It's Better</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">"Build a UI with Tkinter."</td>
+<td style="text-align: left;">"The user must be able to <strong>see</strong> a list of their saved clips."</td>
+<td style="text-align: left;">This Truth allows for other solutions (a web page, a console app, a native UI) if Tkinter proves difficult.</td>
+</tr>
+<tr>
+<td style="text-align: left;">"Listen for a global hotkey."</td>
+<td style="text-align: left;">"The program must be able to <strong>react</strong> to user input even when it's not the active window."</td>
+<td style="text-align: left;">This focuses on the core problem. The solution could be hotkeys, a menu bar icon, or a system service.</td>
+</tr>
+<tr>
+<td style="text-align: left;">"Save the clips to a JSON file."</td>
+<td style="text-align: left;">"The program needs a way to <strong>persist</strong> data between restarts."</td>
+<td style="text-align: left;">This Truth opens up other storage options like a database, a CSV file, or cloud storage, depending on future needs.</td>
+</tr>
+</tbody>
+</table>
+<p>Always ask: "Am I describing a specific tool or action, or am I describing a fundamental requirement?"</p>
 <h3 id="mvp-goal-1-press-a-hotkey-to-save-whatever-is-currently-on-my-clipboard">MVP Goal 1: "Press a hotkey to save whatever is currently on my clipboard."<a class="headerlink" href="#mvp-goal-1-press-a-hotkey-to-save-whatever-is-currently-on-my-clipboard" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Truth 1: The program must be able to run constantly in the background, listening for keyboard input without being the active window.</li>
